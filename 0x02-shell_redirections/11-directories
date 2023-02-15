@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aRA |grep "^[d]"| wc -l
+ls -laRA |grep "^[d]"| wc -l
